@@ -53,6 +53,13 @@ textarea {
   color: var(--color-white);
 }
 
+.alert{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+  text-align: center;
+}
 /* ================== MEDIA QUERIES (MEDIUM DEVICES)================== */
 @media screen and (max-width: 1024px) {
   .contact__container {
